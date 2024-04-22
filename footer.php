@@ -12,7 +12,7 @@
             <p>お問い合わせはこちら: <a href="mailto:info@example.com">info@example.com</a></p>
         </div>
         <div class="social-links">
-            <h3>フォローする</h3>
+            <h3>フォロー</h3>
             <ul>
                 <li><a href="https://twitter.com/example">Twitter</a></li>
                 <li><a href="https://facebook.com/example">Facebook</a></li>
