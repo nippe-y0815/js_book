@@ -28,7 +28,7 @@
                     <li><a href="#">ホーム</a></li>
                     <li><a href="#">サービス</a></li>
                     <li><a href="#">製品</a></li>
-                    <li><a href="#">お問い合わせ</a></li>
+                    <li><a href="#">お問合わせ</a></li>
                     <li><a href="#">会社</a></li>
                 </ul>
             </nav>
