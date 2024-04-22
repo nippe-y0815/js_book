@@ -3,7 +3,8 @@
 <footer>
     <div class="footer-content">
         <div class="site-info">
-            <h3>js-book</h3>
+            <h3>js_book
+            </h3>
             <p>&copy; 2024 サイト名. All Rights Reserved.</p>
         </div>
         <div class="contact-info">
